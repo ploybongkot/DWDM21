@@ -19,13 +19,13 @@ Group Name: เทเลทับบี้
 
 # สารบัญเนื้อหา
 
-* บทที่ 1 [Introduction](https://github.com/ploybongkot/DWDM21/blob/main/HW-Chapter1_623021051-4.pdf)
+* บทที่ 1 [Chapter1: Introduction](https://github.com/ploybongkot/DWDM21/blob/main/HW-Chapter1_623021051-4.pdf)
   * Why Data Mining
   * What is Data Mining
   * ขั้นตอนการทำ Data Mining
   * เทคนิคของ Data Mining
 
-* บทที่ 2 [Chapter2](https://github.com/ploybongkot/DWDM21/blob/main/HW2.1Chapter2_623021051-4.pdf)
+* บทที่ 2 [Chapter2: Know Your Data](https://github.com/ploybongkot/DWDM21/blob/main/HW2.1Chapter2_623021051-4.pdf)
   * เมทริกซ์มิติต่างๆ
   * Types of Data Sets: (1) Record Data
   * Types of Data Sets: (2) Graphs and Networks
@@ -41,7 +41,7 @@ Group Name: เทเลทับบี้
   * Basic Statistical Descriptions of Data
   * Measuring the Central Tendency
 
-* บทที่ 3 [Chapter3](https://github.com/ploybongkot/DWDM21/blob/main/Chapter-3.pdf)
+* บทที่ 3 [Chapter3: Preprocessing](https://github.com/ploybongkot/DWDM21/blob/main/Chapter-3.pdf)
   * Data preprocessing: An Overview
   * Major Tasks in Data Preprocessing
   * Data Quality: Why Preprocess the Data
@@ -50,7 +50,7 @@ Group Name: เทเลทับบี้
   * Incomplete (Missing) Data
   * How to Handle Missing Data
 
-* บทที่ 4 [Chapter4](https://github.com/ploybongkot/DWDM21/blob/main/Data-Warehouse-Chap4.pdf)
+* บทที่ 4 [Chapter4: OLAP](https://github.com/ploybongkot/DWDM21/blob/main/Data-Warehouse-Chap4.pdf)
   * What is Data Warehouse
   * Data Warehouse Subject Oriented
   * Data Warehouse Nonvolatile
@@ -62,7 +62,7 @@ Group Name: เทเลทับบี้
   * Data Lake
   * การประมวลผลมี 2 แบบ คือ Batch Processing กับ Streaming Processing
 
-* บทที่ 6 [Chapter6](https://github.com/ploybongkot/DWDM21/blob/main/Chapter6.pdf)
+* บทที่ 6 [Chapter6: Mining Frequent Patterns, Association](https://github.com/ploybongkot/DWDM21/blob/main/Chapter6.pdf)
   * What Is Pattern Discovery
   * Why Is It Important
   * Basic Concepts: k-Itemsets and Their Supports
@@ -74,7 +74,17 @@ Group Name: เทเลทับบี้
   * Apriori: A Candidate Generation & Test Approach
   * The Apriori Algorithm An Example
 
-
+* บทที่ 8 [Chapter8 Classification การทำนาย, การจำแนกกลุ่ม](https://github.com/ploybongkot/DWDM21/blob/main/Chapter8%20(1).pdf)
+  * Supervised vs. Unsupervised Learning (1)
+  * Supervised vs. Unsupervised Learning (2)
+  * Prediction Problems: Classification vs. Numerfic Prediction
+  * Classification Model Construction, Validation and Testing
+  * Decision Tree Induction
+  * Information Gain
+  * Bayes' Theorem: Basics
+  * Training Dataset
+  * Model Evaluation and Selection การวัดผล
+  
 
 
 
