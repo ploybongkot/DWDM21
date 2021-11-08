@@ -41,4 +41,14 @@ Group Name: เทเลทับบี้
   * Basic Statistical Descriptions of Data
   * Measuring the Central Tendency
 
-บทที่ 3 
+* บทที่ 3 [Chapter3](https://github.com/ploybongkot/DWDM21/blob/main/Chapter-3.pdf)
+  * Data preprocessing: An Overview
+  * Major Tasks in Data Preprocessing
+  * Data Quality: Why Preprocess the Data
+  * Data preprocessing: Data Quality
+  * Data Cleaning
+  * Incomplete (Missing) Data
+  * How to Handle Missing Data
+
+
+
