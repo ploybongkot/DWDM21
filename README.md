@@ -25,4 +25,20 @@ Group Name: เทเลทับบี้
   * ขั้นตอนการทำ Data Mining
   * เทคนิคของ Data Mining
 
-* บทที่ 2
+* บทที่ 2 [Chapter2](https://github.com/ploybongkot/DWDM21/blob/main/HW2.1Chapter2_623021051-4.pdf)
+  * เมทริกซ์มิติต่างๆ
+  * Types of Data Sets: (1) Record Data
+  * Types of Data Sets: (2) Graphs and Networks
+  * Types of Data Sets: (3) Ordered Data
+  * Types of Data Sets: (4) Spatial, image and multimedia Data
+  * Important Characteristics of Structured Data
+  * Data Objects
+  * Attributes
+  * Attribute Types
+  * Numeric Attribute Types
+  * Discrete vs. Continuous Attributes
+  * Getting to Know Your Data
+  * Basic Statistical Descriptions of Data
+  * Measuring the Central Tendency
+
+บทที่ 3 
