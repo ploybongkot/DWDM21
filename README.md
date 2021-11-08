@@ -50,5 +50,21 @@ Group Name: เทเลทับบี้
   * Incomplete (Missing) Data
   * How to Handle Missing Data
 
+* บทที่ 4 [Chapter4](https://github.com/ploybongkot/DWDM21/blob/main/Data-Warehouse-Chap4.pdf)
+  * What is Data Warehouse
+  * Data Warehouse Subject Oriented
+  * Data Warehouse Nonvolatile
+  * Data Cubes
+  * ประเภทของ Data Warehouse
+  * OLTP
+  * ETL
+  * Star vs. Snowflake Schema
+  * Data Lake
+  * การประมวลผลมี 2 แบบ คือ Batch Processing กับ Streaming Processing
+
+
+
+
+
 
 
