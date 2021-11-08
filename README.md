@@ -19,4 +19,10 @@ Group Name: เทเลทับบี้
 
 # สารบัญเนื้อหา
 
-* บทที่ 1 [Introduction](https://www.example.com)
+* บทที่ 1 [Introduction](https://github.com/ploybongkot/DWDM21/blob/main/HW-Chapter1_623021051-4.pdf)
+  * Why Data Mining
+  * What is Data Mining
+  * ขั้นตอนการทำ Data Mining
+  * เทคนิคของ Data Mining
+
+* บทที่ 2
