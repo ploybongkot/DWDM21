@@ -74,7 +74,7 @@ Group Name: เทเลทับบี้
   * Apriori: A Candidate Generation & Test Approach
   * The Apriori Algorithm An Example
 
-* บทที่ 8 [Chapter8 Classification การทำนาย, การจำแนกกลุ่ม](https://github.com/ploybongkot/DWDM21/blob/main/Chapter8%20(1).pdf)
+* บทที่ 8 [Chapter8 Classification: Basic Concepts การทำนาย, การจำแนกกลุ่ม](https://github.com/ploybongkot/DWDM21/blob/main/Chapter8%20(1).pdf)
   * Supervised vs. Unsupervised Learning (1)
   * Supervised vs. Unsupervised Learning (2)
   * Prediction Problems: Classification vs. Numerfic Prediction
@@ -84,6 +84,16 @@ Group Name: เทเลทับบี้
   * Bayes' Theorem: Basics
   * Training Dataset
   * Model Evaluation and Selection การวัดผล
+
+* บทที่ 9 [Chapter9: Classification: Advavced Methods](https://github.com/ploybongkot/DWDM21/blob/main/Chapter9.pdf)
+  * Neural Network for Classification
+  * Discussion on the K-NN Algorithm
+  * เนื้อหาจากหนังสือปัญญาประดิษฐ์ บุญเสริมAI
+
+* บทที่ 10 [Chapter10: Cluster Analysis](https://github.com/ploybongkot/DWDM21/blob/main/Chapter10.pdf)
+  * What is Cluster Analysis
+  * What is Good Clustering
+  * The K-Means Clustering Method
   
 
 
