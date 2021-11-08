@@ -62,7 +62,17 @@ Group Name: เทเลทับบี้
   * Data Lake
   * การประมวลผลมี 2 แบบ คือ Batch Processing กับ Streaming Processing
 
-
+* บทที่ 6 [Chapter6](https://github.com/ploybongkot/DWDM21/blob/main/Chapter6.pdf)
+  * What Is Pattern Discovery
+  * Why Is It Important
+  * Basic Concepts: k-Itemsets and Their Supports
+  * Basic Concepts: Frequent Itemsets (Patterns)
+  * From Frequent Itemsets to Association Rules
+  * Mining Frequent Itemsets and Association Rules
+  * Efficient Pattern Mining Methods
+  * Apriori Pruning and Scalable Mining Methods
+  * Apriori: A Candidate Generation & Test Approach
+  * The Apriori Algorithm An Example
 
 
 
