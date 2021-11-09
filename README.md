@@ -99,7 +99,8 @@ Group Name: เทเลทับบี้
   
  # สารบัญ Github
  
-* บทที่ 2 [Data101](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data101(Chapter2).ipynb)
+* บทที่ 2 
+* [Data101](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data101(Chapter2).ipynb)
   * Basic python
     * Casting int() float() str()
     * Data Structure
@@ -113,4 +114,30 @@ Group Name: เทเลทับบี้
     * Function
       * ลักษณะของ input(parameter)
     * HW4
-
+* [Data102](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data102(Chapter2).ipynb)
+  * .head() .tail()
+  * Boxplot
+  * Time Series Plot
+* [Data Visualization](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data_Visualization.ipynb#scrollTo=FhJm4MYFS0Pg)
+  * Visualization
+    * Scatter plot
+    * Plot
+    * Bar chart
+      * Grouped Barchart
+      * Stacked Barchart เปรียบเทียบกรุ๊ปใหญ่ กับกรุ๊ปย่อยๆ
+    * Histogram ดูความถี่ของข้อมูล
+ * [Distance Numpy](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Distance_Numpy.ipynb#scrollTo=dkI03vRwOH51)
+   * Numpy Array
+     * สร้าง numpy array
+     * matrix transpose
+     * สร้าง matrix เริ่มต้น (zeros,ones)
+     * สร้าง matrix random ค่าเเบบมั่วๆ
+     * Indexing & Slicing ชี้ตัวค่าในเมทริกซ์ยังไง
+     * Useful functions
+   * Distance Matrix
+     * Euclidean Distance (L2-norm)
+     * Distance function
+     * Manhattan Distance (L1-norm)
+     * Quiz6
+     * HW11
+  
