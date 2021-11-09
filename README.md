@@ -17,6 +17,7 @@ Group Name: เทเลทับบี้
 
 ![image](https://user-images.githubusercontent.com/76931108/126358518-648d6679-209d-4c46-a4f9-4679eb13680d.png)
 
+
 # สารบัญเนื้อหา
 
 * บทที่ 1 [Introduction](https://github.com/ploybongkot/DWDM21/blob/main/HW-Chapter1_623021051-4.pdf)
@@ -95,6 +96,21 @@ Group Name: เทเลทับบี้
   * What is Good Clustering
   * The K-Means Clustering Method
   
-
-
+  
+ # สารบัญ Github
+ 
+* บทที่ 2 [Data101](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data101(Chapter2).ipynb)
+  * Basic python
+    * Casting int() float() str()
+    * Data Structure
+      * วิธีสร้าง list ว่าง
+      * list slicing
+    * list+list
+    * Loop ทำซ้ำๆ ขั้นตอนเหมือนๆกัน หลายๆรอบ
+  * Nested loop
+    * Condition เงื่อนไข (if ststement)
+    * HW3 ตัดเกรด
+    * Function
+      * ลักษณะของ input(parameter)
+    * HW4
 
