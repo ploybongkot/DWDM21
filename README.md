@@ -150,7 +150,7 @@ Group Name: เทเลทับบี้
      * Missing Values
    * Missing Values
      * Handling Missing Value 1 (ลบค่า missing)
-       * Quiz 3 ให้ หาว่า การทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+        * Quiz 3 ให้ หาว่า การทำ dropna() ทำให้ข้อมูลหายไปกี่ %
      * Handling Missing Value 1.5 (ลบค่า missing เฉพราะใน colum ที่เราสนใจ)
        * Handling Missing Value 2 (แทนด้วย class ใหม่ (unknown))
      * Handling Missing Value 3 (เเทนด้วย class ใหม่ (ค่าที่เหมาะสม))
@@ -217,6 +217,20 @@ Group Name: เทเลทับบี้
     * ต้นไม้ที่เราคิดเอง
     * ทดลองจาก HW
 
+* บทที่ 7
+* [Clustering](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Chap8_Clustering.ipynb)
+  * K-means
+    * Generate Data
+    * Explore data
+    * Clustering
+  * Example Application (Color Quantization) การนำไปใช้ประโยชน์
+    * นับจำนวนสี
+    * จัดกลุ่มสีให้เหลือ 16 สี
+    * ใช้ centroid เป็นตัวแทนของสี
+  * Hierachical Clustering
+  * Clustering Evaluation
+ 
+* MiniExam[MiniExam](https://github.com/ploybongkot/DWDM21/blob/main/MiniExam.ipynb)
 
   
   
