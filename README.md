@@ -85,6 +85,7 @@ Group Name: เทเลทับบี้
   * Bayes' Theorem: Basics
   * Training Dataset
   * Model Evaluation and Selection การวัดผล
+  * [การบ้านคำนวณมือ](https://github.com/ploybongkot/DWDM21/blob/main/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A1%E0%B8%B7%E0%B8%AD(1).pdf)
 
 * บทที่ 9 [Classification: Advavced Methods](https://github.com/ploybongkot/DWDM21/blob/main/Chapter9.pdf)
   * Neural Network for Classification
