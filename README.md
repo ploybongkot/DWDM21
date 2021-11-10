@@ -140,4 +140,83 @@ Group Name: เทเลทับบี้
      * Manhattan Distance (L1-norm)
      * Quiz6
      * HW11
+     
+ * บทที่ 3
+ * [Data Preprocessing](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data_Preprocessing(Chapter3).ipynb)
+   * Meta Data (Data ที่ใช้อธิบาย Data)
+     * ชี้ข้อมูลในตาราง
+     * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+     * ชี้แบบ .iloc[] (มองข้อมูลเป็น matrix)
+     * Missing Values
+   * Missing Values
+     * Handling Missing Value 1 (ลบค่า missing)
+       * Quiz 3 ให้ หาว่า การทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+     * Handling Missing Value 1.5 (ลบค่า missing เฉพราะใน colum ที่เราสนใจ)
+       * Handling Missing Value 2 (แทนด้วย class ใหม่ (unknown))
+     * Handling Missing Value 3 (เเทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+     * Handling Missing Value 4 (แทนด้วย ค่ากลาง)
+   * เติมช่องว่าง column ใกล้เคียง
+     * Handling Missing Value 5 (แทนด้วย mean ที่อยู่ใน class เดียวกัน) ค่ากลางของ simple ที่อยู่ในคลาสเดียวกัน
+   * Select data by values [PD]
+     * สร้าง list ของ boolean
+       * นำ list ของ boolean มาเลือกค่าในตาราง
+     * Quiz 4 + HW
+       * พบที่ขอนแก่น
+       * เอาค่า mean ไปเติมตรง missing column 'age'
+     * ต่อตารางแนวแกน Y [PD]
+     * การเรียงข้อมูล [PD]
+   * Outlier
+   * Quiz 5
+     * Quiz กลุ่ม III แก้ให้ function box_vals สามารถรับ input ที่ box plot วาดแบบแนวนอนได้ (vert = False)
+       * Pandas' looping(.iterrows)
+     * การรวมตาราง Data Integration (ต่อตารางในเเนวเเกน x)
+       * เลือกเฉพาะ column ที่ต้องการมาเเปะ (.map())
+     * ตารางรอง(ตารางข้างขวา)ต้องไม่มี index ซ้ำ*
+       * Group by (pandas)
+       * เเต่ละจังหวัดมีอายุเฉลี่ยของคนที่ตรวจพบโรคเป็นกี่ปี
+       * Hw + Quiz
+       * save ตารางเอาไปใช้ที่อื่น
+       * [PD] การสร้างตาราง
+
+* บทที่ 5
+* [Association Rules](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
+  * HW
+    * [HW13] วาดกราฟเเท่งสรุปจำนวน item เเละ ยอดขายของเเต่ละประเทศ
+    * เพิ่มคอลัมน์ ยอดขาย (Quantity*UnitPrice)
+    * จัดกลุ่มและหายอดขายรวม
+    * plot การ์ฟเปรียบเทียบยอดขาย
+  * ลบ records ที่ถูก cancel ออกไป
+  * เตรียม data สำหรับ (Fequence Pattern) Association Rule
+  * Apriori
+  * (Quiz7) หา k-itemset ที่มีความน่าสนใจ (โดยพิจารณาลูกค้าเป็นรายคน) พร้อมทั้งอธิบายว่าน่าสนใจยังไง ส่งก่อน 11.25
+
+* บทที่ 6 
+* [ Classification](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+  * Load Data
+  * Train Model
+    * import (เรียกใช้ algorithm ที่เราต้องการ)
+    * define (กำหนด parameters ให้กับ model)
+    * train (ฝึกสอนตัวแบบ)
+  * plot tree
+  * Evaluation
+    * Random
+  * Advanced Tree
+    * Import
+    * Define
+    * Train
+  * TEST
+  * Start here
+    * Import
+    * Define
+    * Train
+    * Evaluate
+  * HW
+    * 1.ต้นไม้ที่ใช้เกณฑ์ Entropy มีความสูงไม่เกิน 4 ชั้น
+    * ต้นไม้ที่ใช้เกณฑ์ Gini มีใบไม่เกิน 25 ใบ
+    * ต้นไม้ที่ใช้เกณฑ์ Entropy และใช้การ split แบบ random
+    * ต้นไม้ที่เราคิดเอง
+    * ทดลองจาก HW
+
+
+  
   
