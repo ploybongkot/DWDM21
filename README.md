@@ -100,8 +100,7 @@ Group Name: เทเลทับบี้
   
  # สารบัญ Github
  
-* บทที่ 2 
-* [Data101](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data101(Chapter2).ipynb)
+* บทที่ 2 [Data101](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data101(Chapter2).ipynb)
   * Basic python
     * Casting int() float() str()
     * Data Structure
@@ -142,8 +141,7 @@ Group Name: เทเลทับบี้
      * Quiz6
      * HW11
      
- * บทที่ 3
- * [Data Preprocessing](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data_Preprocessing(Chapter3).ipynb)
+ * บทที่ 3 [Data Preprocessing](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data_Preprocessing(Chapter3).ipynb)
    * Meta Data (Data ที่ใช้อธิบาย Data)
      * ชี้ข้อมูลในตาราง
      * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
@@ -151,7 +149,7 @@ Group Name: เทเลทับบี้
      * Missing Values
    * Missing Values
      * Handling Missing Value 1 (ลบค่า missing)
-        * Quiz 3 ให้ หาว่า การทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+       * Quiz 3 ให้ หาว่า การทำ dropna() ทำให้ข้อมูลหายไปกี่ %
      * Handling Missing Value 1.5 (ลบค่า missing เฉพราะใน colum ที่เราสนใจ)
        * Handling Missing Value 2 (แทนด้วย class ใหม่ (unknown))
      * Handling Missing Value 3 (เเทนด้วย class ใหม่ (ค่าที่เหมาะสม))
@@ -179,8 +177,7 @@ Group Name: เทเลทับบี้
        * save ตารางเอาไปใช้ที่อื่น
        * [PD] การสร้างตาราง
 
-* บทที่ 5
-* [Association Rules](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
+* บทที่ 5 [Association Rules](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
   * HW
     * [HW13] วาดกราฟเเท่งสรุปจำนวน item เเละ ยอดขายของเเต่ละประเทศ
     * เพิ่มคอลัมน์ ยอดขาย (Quantity*UnitPrice)
@@ -191,8 +188,7 @@ Group Name: เทเลทับบี้
   * Apriori
   * (Quiz7) หา k-itemset ที่มีความน่าสนใจ (โดยพิจารณาลูกค้าเป็นรายคน) พร้อมทั้งอธิบายว่าน่าสนใจยังไง ส่งก่อน 11.25
 
-* บทที่ 6 
-* [ Classification](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+* บทที่ 6 [Classification](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
   * Load Data
   * Train Model
     * import (เรียกใช้ algorithm ที่เราต้องการ)
@@ -218,8 +214,7 @@ Group Name: เทเลทับบี้
     * ต้นไม้ที่เราคิดเอง
     * ทดลองจาก HW
 
-* บทที่ 7
-* [Clustering](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Chap8_Clustering.ipynb)
+* บทที่ 7 [Clustering](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Chap8_Clustering.ipynb)
   * K-means
     * Generate Data
     * Explore data
@@ -231,7 +226,8 @@ Group Name: เทเลทับบี้
   * Hierachical Clustering
   * Clustering Evaluation
  
-* MiniExam[MiniExam](https://github.com/ploybongkot/DWDM21/blob/main/MiniExam.ipynb)
+* MiniExam
+  * [MiniExam](https://github.com/ploybongkot/DWDM21/blob/main/MiniExam.ipynb)
 
   
   
