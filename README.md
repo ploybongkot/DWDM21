@@ -231,4 +231,4 @@ Group Name: เทเลทับบี้
 
   
 * Project Midterm + Final
-  * [Project](https://colab.research.google.com/github/Umaporn19/DWDM21/blob/main/Project_New.ipynb#scrollTo=qEgFHD-31_GV)
+  * [Project](https://github.com/ploybongkot/DWDM21/blob/main/New_Project.ipynb)
