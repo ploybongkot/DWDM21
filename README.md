@@ -232,3 +232,4 @@ Group Name: เทเลทับบี้
   
 * Project Midterm + Final
   * [Project](https://github.com/ploybongkot/DWDM21/blob/main/New_Project.ipynb)
+  * [สไลด์นำเสนอโปรเจค](https://github.com/ploybongkot/DWDM21/blob/main/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84.pdf)
