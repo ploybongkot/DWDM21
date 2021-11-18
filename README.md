@@ -100,7 +100,8 @@ Group Name: เทเลทับบี้
   
  # สารบัญ Github
  
-* บทที่ 2 [Data101](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data101(Chapter2).ipynb)
+* บทที่ 2 
+* [Data101](https://colab.research.google.com/github/ploybongkot/DWDM21/blob/main/Data101(Chapter2).ipynb)
   * Basic python
     * Casting int() float() str()
     * Data Structure
